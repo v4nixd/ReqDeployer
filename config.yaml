@@ -1,0 +1,6 @@
+debug: false
+port: 8080
+
+deploydir: "./bots/{bot}"
+
+python: "3.12"
