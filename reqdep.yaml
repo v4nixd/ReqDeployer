@@ -1,0 +1,6 @@
+#example reqdep.yaml
+#you should put this into your project repo that you will be deploying
+run:
+  file: src/YourApp/main.py
+  command:
+    - "{VENV_BIN}/python3 {APP_DIR}/{FILE}"

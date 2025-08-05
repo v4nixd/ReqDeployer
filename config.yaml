@@ -1,6 +1,8 @@
 debug: false
-port: 8080
+port: 2701
 
-deploydir: "./bots/{bot}"
+deploydir: ./apps/{APP}
+
+branch: main
 
 python: "3.12"

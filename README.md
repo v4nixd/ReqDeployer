@@ -1,7 +1,7 @@
 <h3 align="center">ReqDeployer</h3>
 
 <p align="center">
-    Ultimate Bot Deployer
+    Lightweight CI/CD service for python apps
     <br><br>
     <img alt="Static Badge" src="https://img.shields.io/badge/Requiem-5865F2?logo=discord&logoColor=FFF&label=Discord">
     <br>
@@ -14,14 +14,14 @@
 
 ### About
 
-Instantly deploy your **Python** bots to your VPS (Virtual Private Server) on push using github webhooks
+Instantly deploy your **Python** apps to your VPS (Virtual Private Server) on push using github webhooks
 
 ---
 
 ### Project status
 
 > [!NOTE]
-> MVP Development
+> Release! `v0.1.0`
 
 ## 📦 Version
 
